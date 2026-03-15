@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rowlandheightsbailbond.com/sitemap.xml
